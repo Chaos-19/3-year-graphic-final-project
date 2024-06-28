@@ -1,0 +1,99 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.pdb
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# CMake Generated Files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Code::Blocks IDE Files
+*.layout
+*.depend
+*.layout
+
+# Qt Creator IDE Files
+*.pro.user
+*.qtc
+*.autosave
+
+# Visual Studio Files
+.vscode/
+*.vcxproj*
+*.user
+*.filters
+*.suo
+*.ncb
+*.opensdf
+*.sdf
+*.vcxproj.user
+
+# Xcode Files
+*.xcworkspace/
+*.xcuserdata/
+*.xccheckout/
+*.xcodeproj/
+*.xcscmblueprint/
+
+# CLion IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+cmake-build-debug/
+
+# JetBrains CLion project files
+.idea/
+*.iml
+*.ipr
+cmake-build-*/
+
+# Other IDEs
+*.sublime-project
+*.sublime-workspace
+
+# Directories for temporary files and backups
+tmp/
+temp/
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+*.orig
+
+# Ignoring external dependencies
+external/
+vendor/
+
+# Ignore all static analysis results
+.cppcheck/
+
+# Ignore backup files created by editors
+*~
+\#*\#
+.\#*
